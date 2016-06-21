@@ -1,0 +1,13 @@
+.cards {
+  width: 200px;
+  margin: 20px;
+  background-color: teal;
+  float: left;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+.cards button {
+  display: block;
+  margin: 20px auto;
+}
